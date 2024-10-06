@@ -21,7 +21,7 @@ public class Main {
         System.out.println("Strings are equal: " + str1.equals(str2));
 
         // Output even numbers from an array
-        int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+        int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
         System.out.println("Even numbers in the array:");
         for (int number : numbers) {
             if (number % 2 == 0) {
